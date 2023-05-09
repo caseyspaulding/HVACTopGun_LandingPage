@@ -1,0 +1,18 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+#mybackground {
+    z-index: -1;
+    background-image: url(/images/background/binary2002.jpg);
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+
